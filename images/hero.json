@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "hero.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 63,
+				"h": 45
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "jump/jump.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 24,
+						"w": 33,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 33,
+						"h": 43
+					}
+				},
+				{
+					"filename": "stop/stop.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 35,
+						"w": 26,
+						"h": 36
+					},
+					"frame": {
+						"x": 36,
+						"y": 1,
+						"w": 26,
+						"h": 36
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:96e51ded194a1bd7479593da18e773a5:bbc004bec10c1560314f3eb7c2bce00d:eec64b416d3f54b5cb5181ef71d8f236$"
+	}
+}
